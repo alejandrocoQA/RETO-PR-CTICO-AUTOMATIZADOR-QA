@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="as a user I want to perform the cycles from 1 to 10 on the evalart page." skipped="0" tests="1" time="16.08" timestamp="2022-10-11 04:01:25"><testcase name="execute cycle 1 to 10 successfully"><error message="Expected condition failed: waiting for By.xpath: //p[@class= 'text-xl text-center text-green-500'] to be displayed (tried for 5 second(s) with 100 milliseconds interval)&#10;Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'&#10;System info: host: 'DESKTOP-4LIGFL2', ip: '192.168.1.108', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_341'&#10;Driver info: driver.version: unknown" type="java.lang.AssertionError">Expected condition failed: waiting for By.xpath: //p[@class= 'text-xl text-center text-green-500'] to be displayed (tried for 5 second(s) with 100 milliseconds interval)
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-4LIGFL2', ip: '192.168.1.108', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_341'
+Driver info: driver.version: unknown</error><system-err>Expected condition failed: waiting for By.xpath: //p[@class= 'text-xl text-center text-green-500'] to be displayed (tried for 5 second(s) with 100 milliseconds interval)
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-4LIGFL2', ip: '192.168.1.108', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_341'
+Driver info: driver.version: unknown&#13;
+com.evalartapp.tasks.stepdefinitions.LoginEvalartStepDefinitions.iCanSeeTheFirstCycle(LoginEvalartStepDefinitions.java:35)&#13;
+✽.I can see Se encuentra en el ciclo 1 de 10(src/test/resources/features/cycles.feature:8)&#13;
+</system-err></testcase></testsuite>
